@@ -1,0 +1,161 @@
+*{margin:0px; border:0px; padding:0px; font-family:"Times New Roman", Times, serif; text-decoration:none;}
+	
+
+header{
+	width:auto;
+	height:100px;
+	background-color:#2F4F4F;}
+header h1{
+	font-size:40px;
+	font-family:"Viner Hand ITC","Times New Roman";
+	text-align:center;
+	font-weight:bold;
+	padding-top:20px;
+	color:#FFF;}
+.main{
+	width:auto;
+	height:500px;
+	background-color:#E8E8E8;}
+.main_left{
+	width:auto;
+	height:500px;
+	margin:0px 70px 0px 60px;
+	float:left;
+	background-color:#E8E8E8;}
+.main_right{
+	width:400px;
+	height:500px;
+	background-color:#E8E8E8;
+	float:right;
+	border-left:2px solid #2F4F4F;
+	color:#E8E8E8;}
+.term_cond{
+	width:370px;
+	height:470px;
+	border:1px solid #363636;
+	margin:10px 10px;
+	padding-left:5px;
+	display:none;}
+.term_cond_h2{
+	text-align:center;
+	color:#EE0000; 
+	font-family:"Times New Roman",Arial;
+	font-size:24px;
+	text-decoration:underline;	
+}
+.term_cond li{
+	margin-left:20px;
+	color:#2F4F4F;
+	list-style-type:circle;}
+#log_in{
+	width:300px;
+	height:auto;
+	border:5px solid #838B8B;
+	margin:20px auto 0px auto;
+	padding-top:20px;
+	padding-left:5px;
+	padding-bottom:10px;
+	display:block;
+	color:#363636;
+		
+	}
+#log_in p{
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+	text-decoration:underline;
+	color:#363636;}
+ 
+#username,#pwd{
+	width:175px;
+	height:20px;
+	margin:13px;
+	color:#000;
+	font-size:17px;
+	color:#363636;
+	
+	}
+#chkbox{
+	margin-left:80px;}
+#submitbtn{
+	margin-left:120px;
+	margin-top:10px;
+	width:60px;
+	height:25px;
+	font-size:16px;
+	background-color:#1C1C1C;
+	color:#FFF;
+	font-weight:bold;}
+#log_in a{
+	margin-left:80px;
+	text-decoration:underline;}
+#sign_up{
+	width:810px;
+	height:475px;
+	margin:10px 0px;
+	border:1px solid #FFF;
+	display:none;
+	font-size:18px;}
+.new_register{
+	font-size:22px;
+	color:#363636;}
+#sign_up_click{
+	width:220px;
+	height:40px;
+	margin:30px 80px auto 80px;
+	font-size:23px;
+	color:#FFF;
+	background-color:#2F4F4F;
+	border-radius:5px;
+	}
+#fname,#lname{
+	width:250px;
+	height:40px;
+	margin:10px 18px 10px 18px;
+	background-color:#FFF;
+	border-radius:5px;
+	color:#838B83;
+	text-align:center;
+	font-size:20px;}
+#un,#email,#npwd,#rpwd{
+	width:540px;
+	height:40px;
+	margin-left:20px;
+	margin-bottom:15px;
+	background-color:#FFF;
+	border-radius:5px;
+	color:#838B83;
+	text-align:center;
+	font-size:20px;}
+#gen{
+	margin-left:100px;}
+#sign_up_btn,#cancel{
+	width:100px;
+	height:40px;
+	color:#FFF;
+	background-color:#2F4F4F;
+	border-radius:5px;
+	margin:10px 20px auto 100px;
+	font-size:25px;}
+#chkbox1{
+	margin-left:25px;}
+#tc{
+	text-decoration:underline;
+	color:#F00;
+	font-size:22px;
+	margin-left:5px;}
+footer{
+	widht:auto;
+	height:64px;
+	background-color:#2F4F4F;
+	}
+footer p{
+	font:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	padding-top:5px;
+	padding-left:10px;
+	text-align:center;
+	font-weight:400;
+	color:#FFF;
+	}
+
